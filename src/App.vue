@@ -1,5 +1,5 @@
 <template>
-    <div id="app">
+    <div>
         <md-toolbar>
             <h1 class="md-title">Baby Words</h1>
         </md-toolbar>

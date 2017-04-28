@@ -10,7 +10,7 @@ import VueMaterial from 'vue-material';
 
 Vue.use(Vuex);
 Vue.use(VueRouter);
-Vue.use(VueMaterial)
+Vue.use(VueMaterial);
 
 var store = new Vuex.Store({
     state: {
